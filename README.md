@@ -72,7 +72,6 @@ Our analytical audit discovered:
 │   └── server.py                # Pure Python HTTP dashboard server
 ├── memo-priya-raman.md          # 1-page non-technical executive memo for Priya Raman
 ├── submission-form.md           # Completed vendor evaluation submission form
-├── screen-recording-script.md   # Script & walkthrough for 3-minute video recording
 ├── README.md                    # This file
 ├── README.txt                   # Original schema documentation
 ├── tickets.csv                  # 18 months of historical support tickets (11,780 rows)
